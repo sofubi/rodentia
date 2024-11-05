@@ -1,7 +1,7 @@
 ---
 title: The very first post.
 description: Kicking off.
-date: 2024-11-05 18:24
+date: 2024-11-05
 tags:
   - misc
 ---
