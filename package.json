@@ -17,13 +17,13 @@
 	"author": {
 		"name": "Thomas Lawton",
 		"email": "thomas.lawton@ratmail.cc",
-		"url": "https://rodentia.xyz"
+		"url": "https://rodentia.cc"
 	},
 	"license": "MIT",
 	"engines": {
 		"node": ">=14"
 	},
-	"homepage": "https://rodentia.xyz",
+	"homepage": "https://rodentia.cc",
 	"devDependencies": {
 		"@11ty/eleventy": "^2.0.1",
 		"@11ty/eleventy-img": "^3.1.1",
