@@ -1,0 +1,22 @@
+{
+	"version": "https://jsonfeed.org/version/1.1",
+	"title": "Thomas Lawton | Rodentia",
+	"language": "en",
+	"home_page_url": "https://rodentia.cc/",
+	"feed_url": "https://rodentia.cc/feed/feed.json",
+	"description": "Thoughts posted on occasion.",
+	"author": {
+		"name": "Thomas Lawton",
+		"url": "https://rodentia.cc/about/"
+	},
+	"items": [
+		{
+			"id": "https://rodentia.cc/blog/firstpost/",
+			"url": "https://rodentia.cc/blog/firstpost/",
+			"title": "The very first post.",
+			"content_html": "<h1 id=\"we-ll-see-what-happens\" tabindex=\"-1\">We'll see what happens <a class=\"header-anchor\" href=\"https://rodentia.cc/blog/firstpost/\">#</a></h1>\n<p>Until then, we won't know.</p>\n",
+			"date_published": "2024-11-05T00:00:00Z"
+		}
+		
+	]
+}

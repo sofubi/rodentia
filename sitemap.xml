@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	
+	<url>
+		<loc>https://rodentia.cc/blog/firstpost/</loc>
+		<lastmod>2024-11-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://rodentia.cc/about/</loc>
+		<lastmod>2024-11-06</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://rodentia.cc/blog/</loc>
+		<lastmod>2024-11-06</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://rodentia.cc/</loc>
+		<lastmod>2024-11-06</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://rodentia.cc/tags/</loc>
+		<lastmod>2024-11-06</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://rodentia.cc/tags/misc/</loc>
+		<lastmod>2024-11-06</lastmod>
+	</url>
+</urlset>

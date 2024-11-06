@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>Thomas Lawton | Rodentia</title>
+	<subtitle>Thoughts posted on occasion.</subtitle>
+	<link href="https://rodentia.cc/feed/feed.xml" rel="self"/>
+	<link href="https://rodentia.cc/"/>
+	<updated>2024-11-05T00:00:00Z</updated>
+	<id>https://rodentia.cc</id>
+	<author>
+		<name>Thomas Lawton</name>
+		<email>thomas.lawton@ratmail.cc</email>
+	</author>
+	
+	<entry>
+		<title>The very first post.</title>
+		<link href="https://rodentia.cc/blog/firstpost/"/>
+		<updated>2024-11-05T00:00:00Z</updated>
+		<id>https://rodentia.cc/blog/firstpost/</id>
+		<content type="html">&lt;h1 id=&quot;we-ll-see-what-happens&quot; tabindex=&quot;-1&quot;&gt;We&#39;ll see what happens &lt;a class=&quot;header-anchor&quot; href=&quot;https://rodentia.cc/blog/firstpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Until then, we won&#39;t know.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
